@@ -1,0 +1,362 @@
+Order	Family	Subfamily	Tribe	Genus	Species	LivingGenus	LivingRelative	Living	TaxonString	FCT_HYP	FCT_LOP	FCT_HOR	FCT_AL	FCT_OL	FCT_SF	FCT_OT	FCT_CM
+Artiodactyla	Bovidae	NA	Aepycerotini	Aepyceros	melampus	Aepyceros	Aepyceros melampus	1	ArtiodactylaBovidaeAepycerotiniAepycerosmelampus	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Aepycerotini	Aepyceros	premelampus	Aepyceros	Aepyceros melampus	0	ArtiodactylaBovidaeAepycerotiniAepycerospremelampus	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Aepycerotini	Aepyceros	shungurae	Aepyceros	Aepyceros melampus	0	ArtiodactylaBovidaeAepycerotiniAepycerosshungurae	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Aepycerotini	Aepyceros	NA	Aepyceros	NA	NA	ArtiodactylaBovidaeAepycerotiniAepyceros	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Aepycerotini	Antidorcas	recki	Antidorcas	Antidorcas marsupialis	0	ArtiodactylaBovidaeAepycerotiniAntidorcasrecki	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Aepycerotini	Gazella	sp	Gazella	NA	NA	ArtiodactylaBovidaeAepycerotiniGazellasp	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Aepycerotini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeAepycerotini	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Aepycerotini/Antilopini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeAepycerotini/Antilopini	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Beatragus	antiquus	Beatragus	Beatragus hunteri	0	ArtiodactylaBovidaeAlcelaphiniBeatragusantiquus	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Beatragus	hunteri	Beatragus	Beatragus hunteri	1	ArtiodactylaBovidaeAlcelaphiniBeatragushunteri	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Beatragus/Parmularius	NA	NA	NA	NA	ArtiodactylaBovidaeAlcelaphiniBeatragus/Parmularius	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Connochaetes	gentryi	Connochaetes	Connochaetes taurinus	0	ArtiodactylaBovidaeAlcelaphiniConnochaetesgentryi	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Connochaetes	NA	Connochaetes	NA	NA	ArtiodactylaBovidaeAlcelaphiniConnochaetes	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Connochaetes/Damaliscus	NA	NA	NA	NA	ArtiodactylaBovidaeAlcelaphiniConnochaetes/Damaliscus	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Damalacra	sp A	Damaliscus	NA	NA	ArtiodactylaBovidaeAlcelaphiniDamalacrasp A	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Damalacra	NA	Damaliscus	NA	NA	ArtiodactylaBovidaeAlcelaphiniDamalacraindet	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Damalacra	NA	Damaliscus	NA	NA	ArtiodactylaBovidaeAlcelaphiniDamalacra	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Damaliscus	eppsi	Damaliscus	Damaliscus lunatus	0	ArtiodactylaBovidaeAlcelaphiniDamaliscuseppsi	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Damaliscus	niro	Damaliscus	Damaliscus lunatus	0	ArtiodactylaBovidaeAlcelaphiniDamaliscusniro	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Damaliscus	sp	Damaliscus	NA	NA	ArtiodactylaBovidaeAlcelaphiniDamaliscussp	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Damaliscus	sp nov	Damaliscus	NA	NA	ArtiodactylaBovidaeAlcelaphiniDamaliscussp nov	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Damaliscus	NA	Damaliscus	NA	NA	ArtiodactylaBovidaeAlcelaphiniDamaliscus	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Megalotragus	isaaci	Connochaetes	Alcelaphus buselaphus	0	ArtiodactylaBovidaeAlcelaphiniMegalotragusisaaci	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Megalotragus	NA	Connochaetes	NA	NA	ArtiodactylaBovidaeAlcelaphiniMegalotragus	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Megalotragus	NA	Connochaetes	NA	NA	ArtiodactylaBovidaeBoviniAlcelaphinicf Megalotragus	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Megalotragus	NA	Connochaetes	NA	NA	ArtiodactylaBovidaeAlcelaphinMegalotragus	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Megalotragus	NA	Connochaetes	NA	NA	ArtiodactylaBovidaeAlcelaphinicf Megalotragus	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Palmularis/Damaliscus	NA	NA	NA	NA	ArtiodactylaBovidaeAlcelaphiniPalmularis/Damaliscusindet	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Parmularius	altidens	Damaliscus	Damaliscus lunatus	0	ArtiodactylaBovidaeAlcelaphiniParmulariusaltidens	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Parmularius	angusticornis	Damaliscus	Damaliscus lunatus	0	ArtiodactylaBovidaeAlcelaphiniParmulariusangusticornis	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	Parmularius	NA	Damaliscus	NA	NA	ArtiodactylaBovidaeAlcelaphiniParmularius	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	gen	sp	NA	NA	NA	ArtiodactylaBovidaeAlcelaphinigensp	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	gen	sp nov	NA	NA	NA	ArtiodactylaBovidaeAlcelaphinigensp nov	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeAlcelaphini	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeAlcelaphiniindetindet	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Alcelaphini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeAlcelaphiniindet	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	Antilopini	Antidorcas	recki	Antidorcas	Antidorcas marsupialis	0	ArtiodactylaBovidaeAntilopiniAntidorcasrecki	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Antilopini	Antidorcas	NA	Antidorcas	NA	NA	ArtiodactylaBovidaeAntilopiniAntidorcas	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Antilopini	Gazella	granti	Gazella	Nanger granti	1	ArtiodactylaBovidaeAntilopiniGazellagranti	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Antilopini	Gazella	janenschi	Gazella	Nanger granti	0	ArtiodactylaBovidaeAntilopiniGazellajanenschi	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Antilopini	Gazella	praethomsoni	Gazella	Eudorcas thomsonii	0	ArtiodactylaBovidaeAntilopiniGazellapraethomsoni	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Antilopini	Gazella	sp nov	Gazella	NA	NA	ArtiodactylaBovidaeAntilopiniGazellasp nov	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Antilopini	Gazella	thompsoni	Gazella	Eudorcas thomsonii	1	ArtiodactylaBovidaeAntilopiniGazellathompsoni	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Antilopini	Gazella	NA	Gazella	NA	NA	ArtiodactylaBovidaeAntilopiniGazella	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Antilopini	Gazella	NA	Gazella	NA	NA	ArtiodactylaBovidaeAntilopiniGazellaindet	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Antilopini	Madoqua	NA	Madoqua	NA	NA	ArtiodactylaBovidaeAntilopiniMadoqua	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Antilopini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeAntilopini	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Antilopini/Aepycerotini	Aepyceros	shungurae	Aepyceros	Aepyceros melampus	0	ArtiodactylaBovidaeAntilopini/AepycerotiniAepycerosshungurae	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Boselaphini	Miotragocerus	sp	Taurotragus	NA	NA	ArtiodactylaBovidaeBoselaphiniMiotragocerussp	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Boselaphini	Tragoportax	sp	Taurotragus	NA	NA	ArtiodactylaBovidaeBoselaphiniTragoportaxsp	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Boselaphini	Tragoportax	NA	Taurotragus	NA	NA	ArtiodactylaBovidaeBoselaphiniTragoportax	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Boselaphini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeBoselaphiniindetindet	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Bovini	Pelorovis	oldowayensis	Syncerus	Syncerus caffer	0	ArtiodactylaBovidaeBoviniPelorovisoldowayensis	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini	Pelorovis	turkanensis	Syncerus	Syncerus caffer	0	ArtiodactylaBovidaeBoviniPelorovisturkanensis	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini	Pelorovis	NA	Syncerus	NA	NA	ArtiodactylaBovidaeBoviniPelorovis	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini	Pelorovis	NA	Syncerus	NA	NA	ArtiodactylaBovidaeBovinicf Pelorovis	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini	Simatherium	demissum	Syncerus	Syncerus caffer	0	ArtiodactylaBovidaeBoviniSimatheriumdemissum	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini	Simatherium	kohllarseni	Syncerus	Syncerus caffer	0	ArtiodactylaBovidaeBoviniSimatheriumkohllarseni	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini	Simatherium/Pelorovis	NA	NA	NA	NA	ArtiodactylaBovidaeBoviniSimatherium/Pelorovis	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini	Syncerus	acoelotus	Syncerus	Syncerus caffer	0	ArtiodactylaBovidaeBoviniSyncerusacoelotus	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini	Syncerus	caffer	Syncerus	Syncerus caffer	1	ArtiodactylaBovidaeBoviniSynceruscaffer	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini	Syncerus	NA	Syncerus	NA	NA	ArtiodactylaBovidaeBoviniSyncerus	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini	Ugandax	sp nov	Syncerus	NA	NA	ArtiodactylaBovidaeBoviniUgandaxsp nov	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeBoviniindetindet	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeBovini	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeBoviniindet	3	2	1	0	1	0	1	1
+Artiodactyla	Bovidae	NA	Bovini/Hippotragini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeBovini/Hippotragini	3	2	1	0	1	NA	NA	NA
+Artiodactyla	Bovidae	NA	Caprini	gen	sp A	NA	NA	NA	ArtiodactylaBovidaeCaprinigensp A	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Caprini	gen	sp B	NA	NA	NA	ArtiodactylaBovidaeCaprinigensp B	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Caprini	gen	sp C	NA	NA	NA	ArtiodactylaBovidaeCaprinigensp C	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Caprini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeCaprini	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Cephalophini	Cephalophus	NA	Cephalophus	NA	NA	ArtiodactylaBovidaeCephalophiniCephalophus	2	2	1	0	1	1	0	0
+Artiodactyla	Bovidae	NA	Hippotragini	Hippotragus	gigas	Hippotragus	Hippotragus equinus	0	ArtiodactylaBovidaeHippotraginiHippotragusgigas	3	2	1	0	1	1	0	0
+Artiodactyla	Bovidae	NA	Hippotragini	Hippotragus	NA	Hippotragus	NA	NA	ArtiodactylaBovidaeHippotraginiHippotragusindet	3	2	1	0	1	1	0	0
+Artiodactyla	Bovidae	NA	Hippotragini	Oryx	sp	Oryx	NA	NA	ArtiodactylaBovidaeHippotraginiOryxsp	3	2	1	0	1	1	0	0
+Artiodactyla	Bovidae	NA	Hippotragini	Oryx	NA	Oryx	NA	NA	ArtiodactylaBovidaeHippotraginiOryx	3	2	1	0	1	1	0	0
+Artiodactyla	Bovidae	NA	Hippotragini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeHippotragini	3	2	1	0	1	1	0	0
+Artiodactyla	Bovidae	NA	Hippotragini/Reduncini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeHippotragini/Reduncini	3	2	1	0	1	1	0	0
+Artiodactyla	Bovidae	NA	Neotragini	Madoqua	NA	Madoqua	NA	NA	ArtiodactylaBovidaeNeotraginiMadoqua	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Neotragini	Madoqua	NA	Madoqua	NA	NA	ArtiodactylaBovidaeNeotraginiMadoquaindet	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Neotragini	Neotragus	NA	Neotragus	NA	NA	ArtiodactylaBovidaeNeotraginiNeotragus	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Neotragini	Raphicerus	NA	Raphicerus	NA	NA	ArtiodactylaBovidaeNeotraginiRaphicerusindet	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Neotragini	Raphicerus	NA	Raphicerus	NA	NA	ArtiodactylaBovidaeNeotraginiRaphicerus	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Neotragini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeNeotragini	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Neotragini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeNeotraginiindet	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Reduncini	Aepyceros	shungurae	Aepyceros	Aepyceros melampus	0	ArtiodactylaBovidaeRedunciniAepycerosshungurae	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	ancystrocera	Kobus	Kobus kob	0	ArtiodactylaBovidaeRedunciniKobusancystrocera	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	ellipsiprymnus	Kobus	Kobus kob	0	ArtiodactylaBovidaeRedunciniKobusellipsiprymnus	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	kob	Kobus	Kobus kob	1	ArtiodactylaBovidaeRedunciniKobuskob	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	laticornis	Kobus	Kobus kob	0	ArtiodactylaBovidaeRedunciniKobuslaticornis	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	leche	Kobus	Kobus leche	1	ArtiodactylaBovidaeRedunciniKobusleche	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	lothagamensis	Kobus	Kobus kob	0	ArtiodactylaBovidaeRedunciniKobuslothagamensis	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	oricornus	Kobus	Kobus kob	0	ArtiodactylaBovidaeRedunciniKobusoricornus	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	presigmoidalis	Kobus	Kobus ellipsiprymnus	0	ArtiodactylaBovidaeRedunciniKobuspresigmoidalis	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	sigmoidalis	Kobus	Kobus ellipsiprymnus	0	ArtiodactylaBovidaeRedunciniKobussigmoidalis	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	sigmoidalis/ellipsiprymnus	Kobus	NA	NA	ArtiodactylaBovidaeRedunciniKobussigmoidalis/ellipsiprymnus	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	sp A	Kobus	NA	NA	ArtiodactylaBovidaeRedunciniKobussp A	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	sp B	Kobus	NA	NA	ArtiodactylaBovidaeRedunciniKobussp B	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	sp C	Kobus	NA	NA	ArtiodactylaBovidaeRedunciniKobussp C	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	sp D	Kobus	NA	NA	ArtiodactylaBovidaeRedunciniKobussp D	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Kobus	NA	Kobus	NA	NA	ArtiodactylaBovidaeRedunciniKobus	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Menelikia	leakeyi	Redunca	Kobus ellipsiprymnus	0	ArtiodactylaBovidaeRedunciniMenelikialeakeyi	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Menelikia	lyrocera	Redunca	Kobus ellipsiprymnus	0	ArtiodactylaBovidaeRedunciniMenelikialyrocera	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Menelikia	lyrocera	Redunca	Kobus ellipsiprymnus	0	ArtiodactylaBovidaeReduncinicf Menelikialyrocera	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Menelikia	NA	Redunca	NA	NA	ArtiodactylaBovidaeRedunciniMenelikia	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	Redunca	NA	Redunca	NA	NA	ArtiodactylaBovidaeRedunciniRedunca	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeReduncini	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeRedunciniindetindet	3	2	1	0	1	1	0	1
+Artiodactyla	Bovidae	NA	Reduncini/Bovini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeReduncini/Bovini	3	2	1	0	1	NA	NA	1
+Artiodactyla	Bovidae	NA	Reduncini/Hippotragini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeReduncini/Hippotragini	3	2	1	0	1	1	0	NA
+Artiodactyla	Bovidae	NA	Reduncini/Tragelaphini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeReduncini/Tragelaphini	3	2	1	0	1	NA	0	NA
+Artiodactyla	Bovidae	NA	Tragelaphini	Kobus	sigmoidalis	Kobus	Kobus ellipsiprymnus	0	ArtiodactylaBovidaeTragelaphiniKobussigmoidalis	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	Prostrepsiceros	NA	Tragelaphus	NA	NA	ArtiodactylaBovidaeTragelaphiniProstrepsiceros	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	Taurotragus	NA	Taurotragus	NA	NA	ArtiodactylaBovidaeTragelaphiniTaurotragus	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	Tragelaphus	gaudryi/robbinsi	Tragelaphus	NA	NA	ArtiodactylaBovidaeTragelaphiniTragelaphusgaudryi/robbinsi	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	Tragelaphus	imberbis/scriptus	Tragelaphus	NA	NA	ArtiodactylaBovidaeTragelaphiniTragelaphusimberbis/scriptus	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	Tragelaphus	kyaloae	Tragelaphus	Tragelaphus strepsiceros	0	ArtiodactylaBovidaeTragelaphiniTragelaphuskyaloae	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	Tragelaphus	nakuae	Tragelaphus	Tragelaphus strepsiceros	0	ArtiodactylaBovidaeTragelaphiniTragelaphusnakuae	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	Tragelaphus	rastafari	Tragelaphus	Tragelaphus strepsiceros	0	ArtiodactylaBovidaeTragelaphiniTragelaphusrastafari	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	Tragelaphus	scriptus	Tragelaphus	Tragelaphus scriptus	1	ArtiodactylaBovidaeTragelaphiniTragelaphusscriptus	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	Tragelaphus	strepsiceros	Tragelaphus	Tragelaphus strepsiceros	1	ArtiodactylaBovidaeTragelaphiniTragelaphusstrepsiceros	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	Tragelaphus	strepsiceros maryanus	Tragelaphus	NA	NA	ArtiodactylaBovidaeTragelaphiniTragelaphusstrepsiceros maryanus	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	Tragelaphus	NA	Tragelaphus	NA	NA	ArtiodactylaBovidaeTragelaphiniTragelaphus	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	Tragelaphus/Taurotragus	NA	NA	NA	NA	ArtiodactylaBovidaeTragelaphiniTragelaphus/Taurotragus	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeTragelaphini	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeTragelaphiniindetindet	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	Tragelaphini	NA	NA	NA	NA	NA	ArtiodactylaBovidaeTragelaphiniindet	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	cf Aepycerotini	NA	NA	NA	NA	NA	ArtiodactylaBovidaecf Aepycerotini	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	cf Alcelaphini	NA	NA	NA	NA	NA	ArtiodactylaBovidaecf Alcelaphini	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	cf Antilopini	NA	NA	NA	NA	NA	ArtiodactylaBovidaecf Antilopini	3	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	cf Bovini	NA	NA	NA	NA	NA	ArtiodactylaBovidaecf Bovini	3	2	1	0	1	0	1	0
+Artiodactyla	Bovidae	NA	cf Cephalophini	NA	NA	NA	NA	NA	ArtiodactylaBovidaecf Cephalophini	2	2	1	0	1	1	0	0
+Artiodactyla	Bovidae	NA	cf Hippotragini	NA	NA	NA	NA	NA	ArtiodactylaBovidaecf Hippotragini	3	2	1	0	1	1	0	0
+Artiodactyla	Bovidae	NA	cf Neotragini	NA	NA	NA	NA	NA	ArtiodactylaBovidaecf Neotragini	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	cf Reduncini	NA	NA	NA	NA	NA	ArtiodactylaBovidaecf Reduncini	3	2	1	0	1	1	0	0
+Artiodactyla	Bovidae	NA	cf Tragelaphini	NA	NA	NA	NA	NA	ArtiodactylaBovidaecf Tragelaphini	2	2	1	0	1	0	0	0
+Artiodactyla	Bovidae	NA	NA	NA	NA	NA	NA	NA	ArtiodactylaBovidae	NA	2	1	0	1	NA	NA	NA
+Artiodactyla	Bovidae	NA	NA	NA	NA	NA	NA	NA	ArtiodactylaBovidaeindet	NA	2	1	0	1	NA	NA	NA
+Artiodactyla	Bovidae	NA	NA	NA	NA	NA	NA	NA	ArtiodactylaBovidaeindetindet	NA	2	1	0	1	NA	NA	NA
+Artiodactyla	Bovidae/Equidae	NA	NA	NA	NA	NA	NA	NA	ArtiodactylaBovidae/Equidae	NA	2	1	0	1	NA	NA	NA
+Artiodactyla	Bovidae/Suidae	NA	NA	NA	NA	NA	NA	NA	ArtiodactylaBovidae/Suidae	NA	NA	NA	0	NA	NA	NA	NA
+Artiodactyla	Camelidae	NA	NA	Camelus	NA	Camelus	NA	NA	ArtiodactylaCamelidaeCamelus	3	2	1	0	1	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Cercopithecini	Cercopithecus	NA	Cercopithecus	NA	NA	PrimatesCercopithecidaeCercopithecinaeCercopitheciniCercopithecus	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Cercopithecoides	kimeui	Cercopithecus		0	PrimatesCercopithecidaeColobinaeColobiniCercopithecoideskimeui	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Cercopithecoides	turkwelensis	Cercopithecus		0	PrimatesCercopithecidaeColobinaeColobiniCercopithecoidesturkwelensis	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Cercopithecoides	williamsi	Cercopithecus		0	PrimatesCercopithecidaeColobinaeColobiniCercopithecoideswilliamsi	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Cercopithecoides	NA	Cercopithecus		NA	PrimatesCercopithecidaeColobinaeColobiniCercopithecoidesindet	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Cercopithecoides	NA	Cercopithecus		NA	PrimatesCercopithecidaeColobinaeColobiniCercopithecoides	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Colobus	NA	Colobus		NA	PrimatesCercopithecidaeColobinaeColobiniColobus	1	0	1	1	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Lophocebus	NA	Lophocebus		NA	PrimatesCercopithecidaeColobinaeColobiniLophocebus	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Paracolobus	chemeroni	Colobus		0	PrimatesCercopithecidaeColobinaeColobiniParacolobuschemeroni	1	0	1	1	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Paracolobus	mutiwa	Colobus		0	PrimatesCercopithecidaeColobinaeColobiniParacolobusmutiwa	1	0	1	1	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Paracolobus	sp nov	Colobus		NA	PrimatesCercopithecidaeColobinaeColobiniParacolobussp nov	1	0	1	1	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Paracolobus	NA	Colobus		NA	PrimatesCercopithecidaeColobinaeColobiniParacolobus	1	0	1	1	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Rhinocolobus	turkanaensis	Colobus		0	PrimatesCercopithecidaeColobinaeColobiniRhinocolobusturkanaensis	1	0	1	1	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Rhinocolobus	turkanensis	Colobus		0	PrimatesCercopithecidaeColobinaeColobiniRhinocolobusturkanensis	1	0	1	1	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Rhinocolobus	NA	Colobus		NA	PrimatesCercopithecidaeColobinaeColobiniRhinocolobus	1	0	1	1	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	Rhinocolobus/Cercopithecoides	NA	NA		NA	PrimatesCercopithecidaeColobinaeColobiniRhinocolobus/Cercopithecoides	1	0	1	1	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	gen	sp	NA		NA	PrimatesCercopithecidaeColobinaeColobinigensp	1	0	1	NA	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	gen	sp A	NA		NA	PrimatesCercopithecidaeColobinaeColobinigensp A	1	0	1	NA	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	gen	sp B	NA		NA	PrimatesCercopithecidaeColobinaeColobinigensp B	1	0	1	NA	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	NA	sp	NA		NA	PrimatesCercopithecidaeColobinaeColobiniindetsp	1	0	1	NA	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	NA	sp A	NA		NA	PrimatesCercopithecidaeColobinaeColobiniindetsp A	1	0	1	NA	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	NA	sp B	NA		NA	PrimatesCercopithecidaeColobinaeColobiniindetsp B	1	0	1	NA	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	NA	NA	NA		NA	PrimatesCercopithecidaeColobinaeColobini	1	0	1	NA	0	0	0	0
+Primates	Cercopithecidae	Colobinae	Colobini	NA	NA	NA		NA	PrimatesCercopithecidaeColobinaeColobiniindetindet	1	0	1	NA	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Cercocebus	sp	Cercocebus		NA	PrimatesCercopithecidaeCercopithecinaePapioniniCercocebussp	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Cercocebus	NA	Cercocebus		NA	PrimatesCercopithecidaeCercopithecinaePapioniniCercocebus	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Lophocebus	NA	Lophocebus		NA	PrimatesCercopithecidaeCercopithecinaePapioniniLophocebus	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Papio	sp	Papio		NA	PrimatesCercopithecidaeCercopithecinaePapioniniPapiosp	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Papio	NA	Papio		NA	PrimatesCercopithecidaeCercopithecinaePapioniniPapio	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Papio/Parapapio	NA	NA		NA	PrimatesCercopithecidaeCercopithecinaePapioniniPapio/Parapapio	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Parapapio	ado	Papio		0	PrimatesCercopithecidaeCercopithecinaePapioniniParapapioado	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Parapapio	lothagamensis	Papio		0	PrimatesCercopithecidaeCercopithecinaePapioniniParapapiolothagamensis	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Parapapio	sp A	Papio		NA	PrimatesCercopithecidaeCercopithecinaePapioniniParapapiosp A	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Parapapio	sp A of KFF)	Papio		NA	PrimatesCercopithecidaeCercopithecinaePapioniniParapapiosp A of KFF)	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Parapapio	sp B of KFF)	Papio		NA	PrimatesCercopithecidaeCercopithecinaePapioniniParapapiosp B of KFF)	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Parapapio	whitei	Papio		0	PrimatesCercopithecidaeCercopithecinaePapioniniParapapiowhitei	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Parapapio	NA	Papio		NA	PrimatesCercopithecidaeCercopithecinaePapioniniParapapio	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	Parapapio	NA	Papio		NA	PrimatesCercopithecidaeCercopithecinaePapioniniParapapioindet	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Papionini	NA	NA	NA		NA	PrimatesCercopithecidaeCercopithecinaePapionini	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	NA	Papionini/Colobini	NA	NA	NA		NA	PrimatesCercopithecidaePapionini/Colobini	1	0	1	NA	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	Theropithecini	Theropithecus	baringensis	Theropithecus	Theropithecus gelada	0	PrimatesCercopithecidaeCercopithecinaeTheropitheciniTheropithecusbaringensis	1	0	1	0	1	1	0	0
+Primates	Cercopithecidae	Cercopithecinae	Theropithecini	Theropithecus	brumpti	Theropithecus	Theropithecus gelada	0	PrimatesCercopithecidaeCercopithecinaeTheropitheciniTheropithecusbrumpti	1	0	1	0	1	1	0	0
+Primates	Cercopithecidae	Cercopithecinae	Theropithecini	Theropithecus	darti	Theropithecus	Theropithecus gelada	0	PrimatesCercopithecidaeCercopithecinaeTheropitheciniTheropithecusdarti	1	0	1	0	1	1	0	0
+Primates	Cercopithecidae	Cercopithecinae	Theropithecini	Theropithecus	oswaldi	Theropithecus	Theropithecus gelada	0	PrimatesCercopithecidaeCercopithecinaeTheropitheciniTheropithecusoswaldi	2	0	1	0	1	1	0	0
+Primates	Cercopithecidae	Cercopithecinae	Theropithecini	Theropithecus	NA	Theropithecus		NA	PrimatesCercopithecidaeCercopithecinaeTheropitheciniTheropithecus	1	0	1	0	1	1	0	0
+Primates	Cercopithecidae	Cercopithecinae	Theropithecini	Theropithecus	NA	Theropithecus		NA	PrimatesCercopithecidaeCercopithecinaeTheropitheciniTheropithecusindet	1	0	1	0	1	1	0	0
+Primates	Cercopithecidae	Cercopithecinae	cf Papionini	NA	NA	NA		NA	PrimatesCercopithecidaeCercopithecinaecf Papionini	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	NA	Lophocebus	NA	Lophocebus		NA	PrimatesCercopithecidaeCercopithecinaeLophocebus	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae	NA	NA	Rhinocolobus/Cercopithecoides	NA	NA		NA	PrimatesCercopithecidaeRhinocolobus/Cercopithecoides	1	0	1	1	0	0	0	0
+Primates	Cercopithecidae	NA	NA	NA	NA	NA		NA	PrimatesCercopithecidae	1	0	1	NA	NA	0	0	0
+Primates	Cercopithecidae	cf Colobinae	NA	NA	NA	NA		NA	PrimatesCercopithecidaecf Colobinae	1	0	1	NA	0	0	0	0
+Primates	Cercopithecidae	NA	NA	NA	NA	NA		NA	PrimatesCercopithecidaeindet	1	0	1	NA	0	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	NA	NA	NA	NA		NA	PrimatesCercopithecidaeCercopithecinae	1	0	1	0	NA	0	0	0
+Primates	Cercopithecidae	Colobinae/Papioninae	NA	NA	NA	NA		NA	PrimatesCercopithecidaeColobinae/Papioninae	1	0	1	NA	0	0	0	0
+Primates	Cercopithecidae	NA	NA	NA	NA	NA		NA	PrimatesCercopithecidaeindetindet	1	0	1	NA	NA	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	NA	NA	NA	NA		NA	PrimatesCercopithecidaeCercopithecinaeindet	1	0	1	0	NA	0	0	0
+Primates	Cercopithecidae	Cercopithecinae	NA	NA	NA	NA		NA	PrimatesCercopithecidaeCercopithecinaeindetindet	1	0	1	0	NA	0	0	0
+Primates	Cercopithecidae/Carnivora	NA	NA	NA	NA	NA		NA	PrimatesCercopithecidae/Carnivora	1	0	1	NA	NA	0	0	0
+Primates	Cercopithecidae/Hominidae	Cercopithecinae	Hominini	NA	NA	NA		NA	PrimatesCercopithecidae/HominidaeCercopithecinaeHominini	1	0	1	0	0	0	0	0
+Primates	Cercopithecidae/Hominidae	NA	NA	NA	NA	NA		NA	PrimatesCercopithecidae/Hominidaeindet	1	0	1	NA	NA	0	0	0
+Perissodactyla	Chalicotheriidae	NA	NA	NA	NA	NA		NA	PerissodactylaChalicotheriidae	1	1	1	1	1	0	0	0
+Proboscidea	Deinotheriidae	NA	NA	Deinotherium	bozasi	Loxodonta		0	ProboscideaDeinotheriidaeDeinotheriumbozasi	1	0	1	1	0	0	0	0
+Proboscidea	Deinotheriidae	NA	NA	Deinotherium	NA	Loxodonta		NA	ProboscideaDeinotheriidaeDeinotherium	1	0	1	1	0	0	0	0
+Proboscidea	Deinotheriidae	NA	NA	NA	NA	NA		NA	ProboscideaDeinotheriidae	1	0	1	1	0	0	0	0
+Proboscidea	Elephantidae	NA	NA	Elephas	ekorensis	Loxodonta		0	ProboscideaElephantidaeElephasekorensis	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Elephas	nawataensis	Loxodonta		0	ProboscideaElephantidaeElephasnawataensis	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Elephas	recki	Loxodonta		0	ProboscideaElephantidaeElephasrecki	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Elephas	recki atavus	Loxodonta		0	ProboscideaElephantidaeElephasrecki atavus	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Elephas	recki brumpti	Loxodonta		0	ProboscideaElephantidaeElephasrecki brumpti	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Elephas	recki ileretensis	Loxodonta		0	ProboscideaElephantidaeElephasrecki ileretensis	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Elephas	recki recki	Loxodonta		0	ProboscideaElephantidaeElephasrecki recki	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Elephas	recki shungurensis	Loxodonta		0	ProboscideaElephantidaeElephasrecki shungurensis	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Elephas	NA	Loxodonta		NA	ProboscideaElephantidaeElephas	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Loxodonta	adaurora	Loxodonta		0	ProboscideaElephantidaeLoxodontaadaurora	2	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Loxodonta	adaurora adaurora	Loxodonta		0	ProboscideaElephantidaeLoxodontaadaurora adaurora	2	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Loxodonta	adaurora kararae	Loxodonta		0	ProboscideaElephantidaeLoxodontaadaurora kararae	2	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Loxodonta	audorora	Loxodonta		0	ProboscideaElephantidaeLoxodontaaudorora	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Loxodonta	exoptata	Loxodonta		0	ProboscideaElephantidaeLoxodontaexoptata	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Loxodonta	NA	Loxodonta		NA	ProboscideaElephantidaeLoxodonta	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Loxodonta	NA	Loxodonta		NA	ProboscideaElephantidaeLoxodontaindet	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Primelephas	gomphotheroides	Loxodonta		0	ProboscideaElephantidaePrimelephasgomphotheroides	2	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Primelephas	NA	Loxodonta		NA	ProboscideaElephantidaePrimelephas	2	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Stegotetrabelodon	orbus	Loxodonta		0	ProboscideaElephantidaeStegotetrabelodonorbus	1	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	Stegotetrabelodon/Primelephas	NA	NA		NA	ProboscideaElephantidaeStegotetrabelodon/Primelephas	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	gen	sp	NA		NA	ProboscideaElephantidaegensp	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	NA	NA	NA		NA	ProboscideaElephantidaeindetindet	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	NA	NA	NA		NA	ProboscideaElephantidae	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	NA	NA	NA		NA	ProboscideaElephantidaeindetindetindet	3	0	3	0	1	0	1	1
+Proboscidea	Elephantidae	NA	NA	NA	NA	NA		NA	ProboscideaElephantidaeindet	3	0	3	0	1	0	1	1
+Perissodactyla	Equidae	NA	Equini	Equus	burchelli	Equus	Equus burchellii	1	PerissodactylaEquidaeEquiniEquusburchelli	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Equini	Equus	grevyi	Equus	Equus grevyi	1	PerissodactylaEquidaeEquiniEquusgrevyi	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Equini	Equus	koobiforensis	Equus		0	PerissodactylaEquidaeEquiniEquuskoobiforensis	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Equini	Equus	tabeti	Equus		0	PerissodactylaEquidaeEquiniEquustabeti	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Equini	Equus	NA	Equus		NA	PerissodactylaEquidaeEquiniEquus	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Eurygnathohippus	cornelianus	Equus		0	PerissodactylaEquidaeHipparioniniEurygnathohippuscornelianus	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Eurygnathohippus	feibeli	Equus		0	PerissodactylaEquidaeHipparioniniEurygnathohippusfeibeli	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Eurygnathohippus	sp	Equus		NA	PerissodactylaEquidaeHipparioniniEurygnathohippussp	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Eurygnathohippus	turkanensis	Equus		0	PerissodactylaEquidaeHipparioniniEurygnathohippusturkanensis	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Eurygnathohippus	NA	Equus		NA	PerissodactylaEquidaeHipparioniniEurygnathohippus	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Eurygnathohippus	NA	Equus		NA	PerissodactylaEquidaeHipparioniniEurygnathohippusindet	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Hipparion	cornelianum	Equus		0	PerissodactylaEquidaeHipparioniniHipparioncornelianum	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Hipparion	ethiopicum	Equus		0	PerissodactylaEquidaeHipparioniniHipparionethiopicum	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Hipparion	hasumense	Equus		0	PerissodactylaEquidaeHipparioniniHipparionhasumense	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Hipparion	sp	Equus		NA	PerissodactylaEquidaeHipparioniniHipparionsp	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Hipparion	sp A	Equus		NA	PerissodactylaEquidaeHipparioniniHipparionsp A	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Hipparion	sp B	Equus		NA	PerissodactylaEquidaeHipparioniniHipparionsp B	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Hipparion	NA	Equus		NA	PerissodactylaEquidaeHipparioniniHipparion	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Hipparion	NA	Equus		NA	PerissodactylaEquidaeHipparioniniHipparionindet	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Hipparion	NA	Equus		NA	ArtiodactylaEquidaeHipparioniniHipparion	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	Hippotherium	primegenium	Equus		0	PerissodactylaEquidaeHipparioniniHippotheriumprimegenium	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	Hipparionini	NA	NA	NA		NA	PerissodactylaEquidaeHipparionini	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	NA	NA	NA	NA		NA	PerissodactylaEquidae	3	2	1	0	1	0	1	1
+Perissodactyla	Equidae	NA	NA	NA	NA	NA		NA	PerissodactylaEquidaeindet	3	2	1	0	1	0	1	1
+Primates	Galagidae	NA	NA	Galago	NA	Galago		NA	PrimatesGalagidaeGalagoindet	1	0	1	0	0	0	0	0
+Artiodactyla	Giraffidae	NA	Giraffini	Giraffa	jumae	Giraffa		0	ArtiodactylaGiraffidaeGiraffiniGiraffajumae	1	2	1	0	1	0	0	0
+Artiodactyla	Giraffidae	NA	Giraffini	Giraffa	pygmaea	Giraffa		0	ArtiodactylaGiraffidaeGiraffiniGiraffapygmaea	1	2	1	0	1	0	0	0
+Artiodactyla	Giraffidae	NA	Giraffini	Giraffa	stillei	Giraffa		0	ArtiodactylaGiraffidaeGiraffiniGiraffastillei	1	2	1	0	1	0	0	0
+Artiodactyla	Giraffidae	NA	Giraffini	Giraffa	NA	Giraffa		NA	ArtiodactylaGiraffidaeGiraffiniGiraffa	1	2	1	0	1	0	0	0
+Artiodactyla	Giraffidae	NA	Giraffini	NA	NA	NA		NA	ArtiodactylaGiraffidaeGiraffini	1	2	1	0	1	0	0	0
+Artiodactyla	Giraffidae	NA	Sivatheriini	Sivatherium	maurusium	Giraffa		0	ArtiodactylaGiraffidaeSivatheriiniSivatheriummaurusium	2	2	1	0	1	0	0	0
+Artiodactyla	Giraffidae	NA	Sivatheriini	Sivatherium	NA	Giraffa		NA	ArtiodactylaGiraffidaeSivatheriiniSivatheriumindet	2	2	1	0	1	0	0	0
+Artiodactyla	Giraffidae	NA	Sivatheriini	Sivatherium	NA	Giraffa		NA	ArtiodactylaGiraffidaeSivatheriiniSivatherium	2	2	1	0	1	0	0	0
+Artiodactyla	Giraffidae	NA	cf Sivatheriini	NA	NA	NA		NA	ArtiodactylaGiraffidaecf Sivatheriini	1	2	1	0	1	0	0	0
+Artiodactyla	Giraffidae	Palaeotraginae	NA	Palaeotragus	germaini	Giraffa		0	ArtiodactylaGiraffidaePalaeotraginaePalaeotragusgermaini	1	2	1	0	1	0	0	0
+Artiodactyla	Giraffidae	Palaeotraginae	NA	Palaeotragus	NA	Giraffa		0	ArtiodactylaGiraffidaePalaeotraginaePalaeotragusindet	1	2	1	0	1	0	0	0
+Artiodactyla	Giraffidae	NA	NA	NA	NA	NA		NA	ArtiodactylaGiraffidae	1	2	1	0	1	0	0	0
+Artiodactyla	Giraffidae	NA	NA	NA	NA	NA		NA	ArtiodactylaGiraffidaeindet	1	2	1	0	1	0	0	0
+Proboscidea	Gomphotheriidae	NA	NA	Anancus	kenyensis	Loxodonta		0	ProboscideaGomphotheriidaeAnancuskenyensis	1	0	3	0	1	1	0	0
+Proboscidea	Gomphotheriidae	NA	NA	Anancus	NA	Loxodonta		NA	ProboscideaGomphotheriidaeAnancus	1	0	3	0	1	1	0	0
+Proboscidea	Gomphotheriidae	NA	NA	Stegotetrabelodon	orbus	Loxodonta		0	ProboscideaGomphotheriidaeStegotetrabelodonorbus	1	0	3	0	1	0	1	0
+Proboscidea	Gomphotheriidae	NA	NA	NA	NA	NA		NA	ProboscideaGomphotheriidae	1	0	3	0	1	NA	NA	0
+Proboscidea	Gomphotheriidae	NA	NA	NA	NA	NA		NA	ProboscideaGomphotheriidaeindetindet	1	0	3	0	1	NA	NA	0
+Artiodactyla	Hippopotamidae	NA	NA	Hexaprotodon	aethiopicus	Hippopotamus		0	ArtiodactylaHippopotamidaeHexaprotodonaethiopicus	1	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae	NA	NA	Hexaprotodon	harvardi	Hippopotamus		0	ArtiodactylaHippopotamidaeHexaprotodonharvardi	1	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae	NA	NA	Hexaprotodon	kaisensis	Hippopotamus		0	ArtiodactylaHippopotamidaeHexaprotodonkaisensis	1	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae	NA	NA	Hexaprotodon	karumensis	Hippopotamus		0	ArtiodactylaHippopotamidaeHexaprotodonkarumensis	1	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae	NA	NA	Hexaprotodon	lothagamensis	Hippopotamus		0	ArtiodactylaHippopotamidaeHexaprotodonlothagamensis	1	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae	NA	NA	Hexaprotodon	NA	Hippopotamus		NA	ArtiodactylaHippopotamidaeHexaprotodonindet	1	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae	NA	NA	Hexaprotodon	NA	Hippopotamus		NA	ArtiodactylaHippopotamidaeHexaprotodon	1	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae	NA	NA	Hippopotamus	aethiopicus	Hippopotamus		0	ArtiodactylaHippopotamidaeHippopotamusaethiopicus	1	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae	NA	NA	Hippopotamus	amphibius	Hippopotamus	Hippopotamus amphibius	1	ArtiodactylaHippopotamidaeHippopotamusamphibius	2	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae	NA	NA	Hippopotamus	gorgops	Hippopotamus		0	ArtiodactylaHippopotamidaeHippopotamusgorgops	1	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae	NA	NA	Hippopotamus	karumensis	Hippopotamus		0	ArtiodactylaHippopotamidaeHippopotamuskarumensis	1	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae	NA	NA	Hippopotamus	protamphibius	Hippopotamus		0	ArtiodactylaHippopotamidaeHippopotamusprotamphibius	2	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae	NA	NA	Hippopotamus	NA	Hippopotamus		NA	ArtiodactylaHippopotamidaeHippopotamus	1	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae	NA	NA	NA	NA	NA		NA	ArtiodactylaHippopotamidae	1	0	1	0	1	1	0	0
+Artiodactyla	Hippopotamidae/Suidae	NA	NA	NA	NA	NA		NA	ArtiodactylaHippopotamidae/Suidae	NA	NA	1	0	1	1	0	0
+Primates	Hominidae	Homininae	Hominini	Australopithecus	afarensis	Pan		0	PrimatesHominidaeHomininaeHomininiAustralopithecusafarensis	1	0	1	0	0	0	0	0
+Primates	Hominidae	Homininae	Hominini	Australopithecus	anamensis	Pan		0	PrimatesHominidaeHomininaeHomininiAustralopithecusanamensis	1	0	1	0	0	0	0	0
+Primates	Hominidae	Homininae	Hominini	Australopithecus	boisei	Pan		0	PrimatesHominidaeHomininaeHomininiAustralopithecusboisei	1	0	1	0	0	0	0	0
+Primates	Hominidae	Homininae	Hominini	Australopithecus	NA	Pan		NA	PrimatesHominidaeHomininaeHomininiAustralopithecus	1	0	1	0	0	0	0	0
+Primates	Hominidae	Homininae	Hominini	Homo	erectus	Pan		0	PrimatesHominidaeHomininaeHomininiHomoerectus	1	0	1	0	0	0	0	0
+Primates	Hominidae	Homininae	Hominini	Homo	ergaster	Pan		0	PrimatesHominidaeHomininaeHomininiHomoergaster	1	0	1	0	0	0	0	0
+Primates	Hominidae	Homininae	Hominini	Homo	habilis	Pan		0	PrimatesHominidaeHomininaeHomininiHomohabilis	1	0	1	0	0	0	0	0
+Primates	Hominidae	Homininae	Hominini	Homo	rudolfensis	Pan		0	PrimatesHominidaeHomininaeHomininiHomorudolfensis	1	0	1	0	0	0	0	0
+Primates	Hominidae	Homininae	Hominini	Homo	sp nov	Pan		NA	PrimatesHominidaeHomininaeHomininiHomosp nov	1	0	1	0	0	0	0	0
+Primates	Hominidae	Homininae	Hominini	Homo	NA	Pan		NA	PrimatesHominidaeHomininaeHomininiHomo	1	0	1	0	0	0	0	0
+Primates	Hominidae	Homininae	Hominini	Kenyanthropus	platyops	Pan		0	PrimatesHominidaeHomininaeHomininiKenyanthropusplatyops	1	0	1	0	0	0	0	0
+Primates	Hominidae	Homininae	Hominini	Paranthropus	aethiopicus	Pan		0	PrimatesHominidaeHomininaeHomininiParanthropusaethiopicus	1	0	1	0	0	0	0	0
+Primates	Hominidae	Homininae	Hominini	Paranthropus	boisei	Pan		0	PrimatesHominidaeHomininaeHomininiParanthropusboisei	1	0	1	0	0	0	0	0
+Primates	Hominidae	Homininae	Hominini	NA	NA	NA		NA	PrimatesHominidaeHomininaeHominini	1	0	1	0	0	0	0	0
+Primates	Hominidae	NA	NA	NA	NA	NA		NA	PrimatesHominidaeindet	1	0	1	0	0	0	0	0
+Primates	Lorisidae	NA	NA	Galago	NA	Galago		NA	PrimatesLorisidaeGalago	1	0	1	0	0	0	0	0
+Perissodactyla	Rhinocerotidae	NA	Dicerotini	Ceratotherium	mauritanicum	Ceratotherium		0	PerissodactylaRhinocerotidaeDicerotiniCeratotheriummauritanicum	NA	1	1	0	1	0	1	1
+Perissodactyla	Rhinocerotidae	NA	Dicerotini	Diceros	praecox	Diceros		0	PerissodactylaRhinocerotidaeDicerotiniCeratotheriumpraecox	3	2	1	1	1	0	0	0
+Perissodactyla	Rhinocerotidae	NA	Dicerotini	Ceratotherium	simum	Ceratotherium		0	PerissodactylaRhinocerotidaeDicerotiniCeratotheriumsimum	3	2	1	0	1	0	1	1
+Perissodactyla	Rhinocerotidae	NA	Dicerotini	Ceratotherium	NA	Ceratotherium		NA	PerissodactylaRhinocerotidaeDicerotiniCeratotherium	3	2	1	0	1	0	1	1
+Perissodactyla	Rhinocerotidae	NA	Dicerotini	Ceratotherium/Diceros	NA	NA		NA	PerissodactylaRhinocerotidaeDicerotiniCeratotherium/Diceros	NA	1	1	0	1	0	1	1
+Perissodactyla	Rhinocerotidae	NA	Dicerotini	Diceros	bicornis	Diceros	Diceros bicornis	1	PerissodactylaRhinocerotidaeDicerotiniDicerosbicornis	2	1	1	1	1	0	0	0
+Perissodactyla	Rhinocerotidae	NA	Dicerotini	Diceros	praecox	Diceros		0	PerissodactylaRhinocerotidaeDicerotiniDicerospraecox	2	1	1	1	1	0	0	0
+Perissodactyla	Rhinocerotidae	NA	Dicerotini	Diceros	NA	Diceros		NA	PerissodactylaRhinocerotidaeDicerotiniDiceros	2	1	1	1	1	0	0	0
+Perissodactyla	Rhinocerotidae	NA	Teleoceratini	Brachypotherium	lewisi	Diceros		0	PerissodactylaRhinocerotidaeTeleoceratiniBrachypotheriumlewisi	2	1	1	1	1	0	0	0
+Perissodactyla	Rhinocerotidae	NA	NA	NA	NA	NA		0	PerissodactylaRhinocerotidae	NA	1	1	NA	1	0	NA	NA
+Perissodactyla	Rhinocerotidae	NA	NA	NA	NA	NA		0	PerissodactylaRhinocerotidaeindet	NA	1	1	NA	1	0	NA	NA
+Artiodactyla	Suidae	Cainochoerinae	NA	Cainochoerus	africanus	Potamochoerus		0	ArtiodactylaSuidaeCainochoerinaeCainochoerusafricanus	1	0	1	0	0	0	0	0
+Artiodactyla	Suidae	Suinae	NA	Kolpochoerus	heseloni	Potamochoerus		0	ArtiodactylaSuidaeSuinaeKolpochoerusheseloni	2	0	2	0	0	1	1	1
+Artiodactyla	Suidae	Suinae	NA	Kolpochoerus	majus	Potamochoerus		0	ArtiodactylaSuidaeSuinaeKolpochoerusmajus	2	0	2	0	0	1	1	1
+Artiodactyla	Suidae	Suinae	NA	Kolpochoerus	NA	Potamochoerus		NA	ArtiodactylaSuidaeSuinaeKolpochoerus	2	0	2	0	0	1	1	1
+Artiodactyla	Suidae	Listriodontinae	NA	Kubanochoerus	NA	Potamochoerus		NA	ArtiodactylaSuidaeListriodontinaeKubanochoerusindet	1	0	1	0	0	0	0	0
+Artiodactyla	Suidae	Listriodontinae	NA	Kubanochoerus	NA	Potamochoerus		NA	ArtiodactylaSuidaeListriodontinaeKubanochoerus	1	0	1	0	0	0	0	0
+Artiodactyla	Suidae	Suinae	NA	Metridiochoerus	andrewsi	Phacochoerus		0	ArtiodactylaSuidaeSuinaeMetridiochoerusandrewsi	3	0	3	0	0	0	1	1
+Artiodactyla	Suidae	Suinae	NA	Metridiochoerus	compactus	Phacochoerus		0	ArtiodactylaSuidaeSuinaeMetridiochoeruscompactus	3	2	3	0	1	0	1	1
+Artiodactyla	Suidae	Suinae	NA	Metridiochoerus	hopwoodi	Phacochoerus		0	ArtiodactylaSuidaeSuinaeMetridiochoerushopwoodi	3	0	3	0	0	0	1	1
+Artiodactyla	Suidae	Suinae	NA	Metridiochoerus	limnetes	Phacochoerus		0	ArtiodactylaSuidaeSuinaeMetridiochoeruslimnetes	3	0	3	0	0	0	1	1
+Artiodactyla	Suidae	Suinae	NA	Metridiochoerus	modestus	Phacochoerus		0	ArtiodactylaSuidaeSuinaeMetridiochoerusmodestus	3	0	2	0	0	0	1	1
+Artiodactyla	Suidae	Suinae	NA	Metridiochoerus	NA	Phacochoerus		NA	ArtiodactylaSuidaeSuinaeMetridiochoerus	3	0	NA	0	0	0	1	1
+Artiodactyla	Suidae	NA	NA	Metridiochoerus/Notochoerus	NA	NA		NA	ArtiodactylaSuidaeindetindetMetridiochoerus/Notochoerus	3	0	NA	0	0	0	1	1
+Artiodactyla	Suidae	Tetraconodontinae	NA	Notochoerus	capensis	Potamochoerus		0	ArtiodactylaSuidaeTetraconodontinaeNotochoeruscapensis	3	0	3	0	0	0	1	1
+Artiodactyla	Suidae	Tetraconodontinae	NA	Notochoerus	euilus	Potamochoerus		0	ArtiodactylaSuidaeTetraconodontinaeNotochoeruseuilus	2	0	3	0	0	0	1	1
+Artiodactyla	Suidae	Tetraconodontinae	NA	Notochoerus	jaegeri	Potamochoerus		0	ArtiodactylaSuidaeTetraconodontinaeNotochoerusjaegeri	2	0	3	0	0	0	1	1
+Artiodactyla	Suidae	Tetraconodontinae	NA	Notochoerus	scotti	Potamochoerus		0	ArtiodactylaSuidaeTetraconodontinaeNotochoerusscotti	3	0	3	0	0	0	1	1
+Artiodactyla	Suidae	Tetraconodontinae	NA	Notochoerus	NA	Potamochoerus		NA	ArtiodactylaSuidaeTetraconodontinaeNotochoerus	3	0	3	0	0	0	1	1
+Artiodactyla	Suidae	NA	NA	Notochoerus/Metridiochoerus	NA	NA		NA	ArtiodactylaSuidaeindetindetNotochoerus/Metridiochoerus	3	0	3	0	0	0	1	1
+Artiodactyla	Suidae	Tetraconodontinae	NA	Nyanzachoerus	devauxi	Potamochoerus		0	ArtiodactylaSuidaeTetraconodontinaeNyanzachoerusdevauxi	1	0	1	0	0	0	0	0
+Artiodactyla	Suidae	Tetraconodontinae	NA	Nyanzachoerus	jaegeri/euilus	Potamochoerus		NA	ArtiodactylaSuidaeTetraconodontinaeNyanzachoerusjaegeri/euilus	1	0	1	0	0	0	0	0
+Artiodactyla	Suidae	Tetraconodontinae	NA	Nyanzachoerus	kanamensis	Potamochoerus		0	ArtiodactylaSuidaeTetraconodontinaeNyanzachoeruskanamensis	2	0	2	0	0	0	0	0
+Artiodactyla	Suidae	Tetraconodontinae	NA	Nyanzachoerus	kanamensis australis	Potamochoerus		0	ArtiodactylaSuidaeTetraconodontinaeNyanzachoeruskanamensis australis	2	0	2	0	0	0	0	0
+Artiodactyla	Suidae	Tetraconodontinae	NA	Nyanzachoerus	kanamensis/pattersoni	Potamochoerus		NA	ArtiodactylaSuidaeTetraconodontinaeNyanzachoeruskanamensis/pattersoni	2	0	2	0	0	0	0	0
+Artiodactyla	Suidae	Tetraconodontinae	NA	Nyanzachoerus	pattersoni	Potamochoerus		0	ArtiodactylaSuidaeTetraconodontinaeNyanzachoeruspattersoni	2	0	2	0	0	0	0	0
+Artiodactyla	Suidae	Tetraconodontinae	NA	Nyanzachoerus	syrticus	Potamochoerus		0	ArtiodactylaSuidaeTetraconodontinaeNyanzachoerussyrticus	1	0	1	0	0	0	0	0
+Artiodactyla	Suidae	Tetraconodontinae	NA	Nyanzachoerus	tulotos	Potamochoerus		0	ArtiodactylaSuidaeTetraconodontinaeNyanzachoerustulotos	1	0	1	0	0	0	0	0
+Artiodactyla	Suidae	Tetraconodontinae	NA	Nyanzachoerus	NA	Potamochoerus		NA	ArtiodactylaSuidaeTetraconodontinaeNyanzachoerus	1	0	1	0	0	0	0	0
+Artiodactyla	Suidae	Tetraconodontinae	NA	Nyanzachoerus	NA	Potamochoerus		NA	ArtiodactylaSuidaeTetraconodontinaeNyanzachoerusindet	1	0	1	0	0	0	0	0
+Artiodactyla	Suidae	Suinae	NA	Phacochoerus	NA	Phacochoerus		NA	ArtiodactylaSuidaeSuinaePhacochoerus	3	0	3	0	0	0	1	1
+Artiodactyla	Suidae	Suinae	NA	Phacochoerus	NA	Phacochoerus		NA	ArtiodactylaSuidaeSuinaePhacochoerusindet	3	0	3	0	0	0	1	1
+Artiodactyla	Suidae	Suinae	NA	Potamochoerus	afarensis	Potamochoerus		0	ArtiodactylaSuidaeSuinaePotamochoerusafarensis	1	0	1	0	0	1	0	0
+Artiodactyla	Suidae	Suinae	NA	Potamochoerus	porcus	Potamochoerus	Potamochoerus porcus	1	ArtiodactylaSuidaeSuinaePotamochoerusporcus	1	0	1	0	0	1	0	0
+Artiodactyla	Suidae	Suinae	NA	Potamochoerus	NA	Potamochoerus		NA	ArtiodactylaSuidaeSuinaePotamochoerusindet	1	0	1	0	0	1	0	0
+Artiodactyla	Suidae	Suinae	NA	Potamochoerus	NA	Potamochoerus		NA	ArtiodactylaSuidaeSuinaePotamochoerus	1	0	1	0	0	1	0	0
+Artiodactyla	Suidae	NA	NA	NA	NA	NA		NA	ArtiodactylaSuidae	NA	0	NA	0	NA	NA	NA	NA
+Artiodactyla	Suidae	NA	NA	NA	NA	NA		NA	ArtiodactylaSuidaeindet	NA	0	NA	0	NA	NA	NA	NA
+Artiodactyla	Suidae	Tetraconodontinae	NA	NA	NA	NA		NA	ArtiodactylaSuidaeTetraconodontinae	NA	0	0	0	0	0	0	0
+Artiodactyla	Suidae/Hippopotamidae	NA	NA	NA	NA	NA		NA	ArtiodactylaSuidae/Hippopotamidae	1	0	NA	0	NA	NA	NA	NA
+Artiodactyla	cf Bovidae	NA	NA	NA	NA	NA		NA	Artiodactylacf Bovidae	NA	2	1	0	1	NA	NA	NA
+Artiodactyla	cf Giraffidae	NA	NA	NA	NA	NA		NA	Artiodactylacf Giraffidae	1	2	1	0	1	0	0	0
+Artiodactyla	cf Suidae	NA	NA	NA	NA	NA		NA	Artiodactylacf Suidae	NA	NA	NA	0	NA	NA	NA	NA
+Primates	NA	NA	NA	NA	NA	NA		NA	Primates	1	0	1	NA	NA	0	0	0
+Proboscidea	NA	NA	NA	NA	NA	NA		NA	Proboscidea	NA	0	NA	0	1	NA	NA	NA
+Artiodactyla	NA	NA	NA	NA	NA	NA		NA	Artiodactyla	NA	NA	NA	NA	NA	NA	NA	NA

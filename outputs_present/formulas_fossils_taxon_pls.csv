@@ -1,0 +1,5 @@
+mode	name	ncomp	(Intercept)	Giraffa	Tragelaphus	Connochaetes	Kobus	Syncerus	Damaliscus	Aepyceros	Hippopotamus	Gazella	Pan	Papio	Theropithecus	Potamochoerus	Phacochoerus	Equus	Loxodonta	Raphicerus	Hippotragus	Diceros	Cercopithecus	Colobus	Redunca	Beatragus	Cercocebus	Oryx	Ceratotherium	Antidorcas	Madoqua	Cephalophus	Lophocebus	Galago	Taurotragus	Camelus	Neotragus
+East	fossils PLS	4	620	-51	162	-138	98	79	-95	-56	-67	-136	101	138	26	188	-23	-54	21	27	43	-17	103	187	123	1	40	-67	-39	1	-232	132	124	85	0	0	85
+South	fossils PLS	4	1040	-38	168	-87	-55	117	-39	-56	-92	0	106	-14	0	97	50	-29	-39	-68	142	-56	74	206	42	-4	67	-115	-59	-234	-67	194	181	10	0	0	75
+Diag	fossils PLS	4	736	-37	215	72	-12	43	23	-83	-79	-150	91	28	4	165	40	-39	-16	-50	83	-86	186	232	109	0	47	-119	-68	-54	-284	220	139	78	0	0	65
+All	fossils PLS	4	710	-28	222	-40	-29	125	13	-73	-87	-152	108	19	5	156	44	-34	4	-13	86	-47	135	239	131	1	47	-102	-75	-48	-233	183	174	71	0	0	75

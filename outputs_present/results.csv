@@ -1,0 +1,9 @@
+REG	mode	R2hab	R2habrel	R2habfossils	R2taxonPLS	R2taxonpseudoPLS	R2ecomPLS	R2ecomOLS	R2ecomBAS	NcompTaxon	NcompEcom
+East	train	0.46	0.458	0.411	0.82	0.804	0.547	0.03	0.128	4	4
+East	test	0.404	0.266	0.38	0.691	0.483	0.631	-0.341	-0.389	4	4
+South	train	0.502	0.521	0.5	0.843	0.827	0.723	0.411	0.438	4	4
+South	test	0.188	0.063	0.181	0.651	0.447	0.239	-1.694	-2.109	4	4
+Diag	train	0.656	0.668	0.643	0.912	0.901	0.701	0.032	0.058	4	4
+Diag	test	0.274	0.088	0.218	0.219	0.01	0.121	-0.234	-0.196	4	4
+All	train	0.543	0.553	0.519	0.861	0.847	0.658	0.044	0.068	4	4
+All	test	0.543	0.363	0.519	0.861	0.503	0.658	0.044	0.068	4	4

@@ -1,0 +1,9 @@
+			(Intercept)	FCT_OT
+East	ecom OLS	4	1055	951
+East	ecom PLS	4	2038	-769
+South	ecom OLS	4	2029	-3260
+South	ecom PLS	4	3070	-767
+Diag	ecom OLS	4	1367	-933
+Diag	ecom PLS	4	3085	-1389
+All	ecom OLS	4	1482	-1116
+All	ecom PLS	4	2980	-1323
